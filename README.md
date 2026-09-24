@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="assets/header.svg" alt="Azariah Anderson" width="100%" />
 
@@ -26,7 +26,7 @@ I'm a **16-year-old full-stack developer** from **Gauteng, South Africa**, build
 
 Currently focused on **desktop apps, developer tools, and local-first software** — where the user's machine is the product, not a rented one.
 
-**Stack:** TypeScript · React · Rust · Tauri · Node · Postgres  
+**Stack:** TypeScript · React · Rust · Tauri · Node · Postgres
 **Open to:** collaborations, interesting problems
 
 <br />
@@ -82,14 +82,15 @@ Built with **Tauri 2 · React 19 · TypeScript · Rust · Zustand · TanStack Ro
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AzariahAnderson&show_icons=true&hide_border=true&bg_color=1a1815&title_color=c9a24a&icon_color=e8b87d&text_color=e8dcc4&count_private=true&include_all_commits=true" alt="Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzariahAnderson&layout=compact&hide_border=true&bg_color=1a1815&title_color=c9a24a&text_color=e8dcc4&langs_count=8" alt="Top languages" />
+<img src="assets/stats.svg" alt="Stats" width="100%" />
 
-</div>
+<br />
 
-<div align="center">
+<img src="assets/streak.svg" alt="Activity calendar" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AzariahAnderson&hide_border=true&bg_color=1a1815&color=c9a24a&line=e8b87d&point=e8dcc4&area=true&area_color=c9a24a" alt="Activity graph" width="100%" />
+<br />
+
+<img src="assets/activity.svg" alt="Recent activity" width="100%" />
 
 </div>
 
