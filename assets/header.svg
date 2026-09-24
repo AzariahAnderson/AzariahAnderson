@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-label="Azariah Anderson">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1e1b17"/>
+      <stop offset="100%" stop-color="#141210"/>
+    </linearGradient>
+    <linearGradient id="text" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f0e6d0"/>
+      <stop offset="100%" stop-color="#c9a24a"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c9a24a" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#c9a24a" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#c9a24a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="230" rx="16" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="229" rx="15.5" fill="none" stroke="#c9a24a" stroke-opacity="0.28"/>
+  <g font-family="Inter, Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-weight="800" font-size="94" text-anchor="middle" letter-spacing="-1.5">
+    <text x="601" y="141" fill="#0a0908" fill-opacity="0.55">Azariah Anderson</text>
+    <text x="599" y="139" fill="#2a2318" fill-opacity="0.9">Azariah Anderson</text>
+    <text x="600" y="138" fill="url(#text)">Azariah Anderson</text>
+  </g>
+  <line x1="380" y1="168" x2="820" y2="168" stroke="url(#rule)" stroke-width="1"/>
+  <text x="600" y="205" fill="#b8a888" font-family="Inter, Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="500" text-anchor="middle" letter-spacing="6">FULL-STACK DEVELOPER - GAUTENG - ANDERSON TECH LABS</text>
+</svg>
