@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="assets/header.svg" alt="Azariah Anderson" width="100%" />
+<img src="https://raw.githubusercontent.com/AzariahAnderson/AzariahAnderson/main/assets/header.svg" alt="Azariah Anderson" width="100%" />
 
 <br />
 
@@ -62,7 +62,7 @@ Built with **Tauri 2 · React 19 · TypeScript · Rust · Zustand · TanStack Ro
 ![React](https://img.shields.io/badge/React-c9a24a?style=for-the-badge&logo=react&logoColor=1a1815)
 ![Vite](https://img.shields.io/badge/Vite-c9a24a?style=for-the-badge&logo=vite&logoColor=1a1815)
 ![Tailwind](https://img.shields.io/badge/Tailwind-c9a24a?style=for-the-badge&logo=tailwindcss&logoColor=1a1815)
-![GSAP](https://img.shields.io/badge/GSAP-c9a24a?style=for-the-badge&logo=gsap&logoColor=1a1815)
+![GSAP](https://img.shields.io/badge/GSAP-c9a24a?style=for-the-badge&logo=greensock&logoColor=1a1815)
 
 **Backend &amp; Infra**
 
@@ -82,15 +82,15 @@ Built with **Tauri 2 · React 19 · TypeScript · Rust · Zustand · TanStack Ro
 
 <div align="center">
 
-<img src="assets/stats.svg?v=3" alt="Stats" width="100%" />
+<img src="https://raw.githubusercontent.com/AzariahAnderson/AzariahAnderson/main/assets/stats.svg" alt="Stats" width="100%" />
 
 <br />
 
-<img src="assets/streak.svg?v=3" alt="Activity calendar" width="100%" />
+<img src="https://raw.githubusercontent.com/AzariahAnderson/AzariahAnderson/main/assets/streak.svg" alt="Activity calendar" width="100%" />
 
 <br />
 
-<img src="assets/activity.svg?v=3" alt="Recent activity" width="100%" />
+<img src="https://raw.githubusercontent.com/AzariahAnderson/AzariahAnderson/main/assets/activity.svg" alt="Recent activity" width="100%" />
 
 </div>
 
