@@ -22,12 +22,92 @@
 
 ### About
 
-```yaml
-name:      Azariah Anderson
-age:       16
-role:      Full-stack developer
-company:   Anderson Tech Labs
-location:  Gauteng, South Africa
-focus:     [desktop apps, developer tools, local-first AI]
-stack:     [TypeScript, React, Rust, Tauri, Node, Postgres]
-open_to:   [collaborations, interesting problems]
+I'm a **16-year-old full-stack developer** from **Gauteng, South Africa**, building ambitious products end to end — from the pixel to the process.
+
+Currently focused on **desktop apps, developer tools, and local-first software** — where the user's machine is the product, not a rented one.
+
+**Stack:** TypeScript · React · Rust · Tauri · Node · Postgres  
+**Open to:** collaborations, interesting problems
+
+<br />
+
+---
+
+### Currently building
+
+**Cuddles** — a local-first desktop workspace for building software with AI at your side.
+
+Files, editor, terminal, and an assistant that runs on your machine. Your keys, your models, your data. No accounts, no telemetry, no cloud middleman.
+
+Built with **Tauri 2 · React 19 · TypeScript · Rust · Zustand · TanStack Router · GSAP**.
+
+<br />
+
+---
+
+### Stack
+
+<div align="center">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-c9a24a?style=for-the-badge&logo=typescript&logoColor=1a1815)
+![Rust](https://img.shields.io/badge/Rust-c9a24a?style=for-the-badge&logo=rust&logoColor=1a1815)
+![JavaScript](https://img.shields.io/badge/JavaScript-c9a24a?style=for-the-badge&logo=javascript&logoColor=1a1815)
+![Python](https://img.shields.io/badge/Python-c9a24a?style=for-the-badge&logo=python&logoColor=1a1815)
+![SQL](https://img.shields.io/badge/SQL-c9a24a?style=for-the-badge&logo=postgresql&logoColor=1a1815)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-c9a24a?style=for-the-badge&logo=react&logoColor=1a1815)
+![Vite](https://img.shields.io/badge/Vite-c9a24a?style=for-the-badge&logo=vite&logoColor=1a1815)
+![Tailwind](https://img.shields.io/badge/Tailwind-c9a24a?style=for-the-badge&logo=tailwindcss&logoColor=1a1815)
+![GSAP](https://img.shields.io/badge/GSAP-c9a24a?style=for-the-badge&logo=greensock&logoColor=1a1815)
+
+**Backend &amp; Infra**
+
+![Node](https://img.shields.io/badge/Node.js-c9a24a?style=for-the-badge&logo=nodedotjs&logoColor=1a1815)
+![Postgres](https://img.shields.io/badge/Postgres-c9a24a?style=for-the-badge&logo=postgresql&logoColor=1a1815)
+![Tauri](https://img.shields.io/badge/Tauri-c9a24a?style=for-the-badge&logo=tauri&logoColor=1a1815)
+![Git](https://img.shields.io/badge/Git-c9a24a?style=for-the-badge&logo=git&logoColor=1a1815)
+![Docker](https://img.shields.io/badge/Docker-c9a24a?style=for-the-badge&logo=docker&logoColor=1a1815)
+
+</div>
+
+<br />
+
+---
+
+### Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AzariahAnderson&show_icons=true&hide_border=true&bg_color=1a1815&title_color=c9a24a&icon_color=e8b87d&text_color=e8dcc4&count_private=true&include_all_commits=true" alt="Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzariahAnderson&layout=compact&hide_border=true&bg_color=1a1815&title_color=c9a24a&text_color=e8dcc4&langs_count=8" alt="Top languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AzariahAnderson&hide_border=true&bg_color=1a1815&color=c9a24a&line=e8b87d&point=e8dcc4&area=true&area_color=c9a24a" alt="Activity graph" width="100%" />
+
+</div>
+
+<br />
+
+---
+
+### Connect
+
+<div align="center">
+
+<a href="https://github.com/AzariahAnderson"><img src="https://img.shields.io/badge/GitHub-c9a24a?style=for-the-badge&logo=github&logoColor=1a1815" alt="GitHub" /></a>
+<a href="mailto:azariah@andersontechlabs.dev"><img src="https://img.shields.io/badge/Email-c9a24a?style=for-the-badge&logo=gmail&logoColor=1a1815" alt="Email" /></a>
+
+</div>
+
+<br />
+
+<div align="center">
+<em>From Gauteng, with intent.</em>
+</div>
