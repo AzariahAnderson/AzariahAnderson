@@ -1,0 +1,32 @@
+name: Update Experience Counter
+
+on:
+  schedule:
+    - cron: "0 0 10 10 *"   # every October 10th, 00:00 UTC
+  workflow_dispatch:         # trigger manually test
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Bump years of experience
+        run: |
+          START_YEAR=2016
+          YEARS=$(( $(date -u +%Y) - START_YEAR ))
+          sed -i "s/<!--YEARS-->[0-9]*<!--\/YEARS-->/<!--YEARS-->${YEARS}<!--\/YEARS-->/" README.md
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: bump years of experience"
+            git push
+          fi
