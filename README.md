@@ -4,22 +4,20 @@
 
 <h1>Azariah Anderson</h1>
 
-<p><b>Full-Stack Developer</b> — TypeScript, React & Node ecosystems</p>
-
-<p><!--YEARS-->10<!--/YEARS-->+ years of experience &nbsp;•&nbsp; building since 2016</p>
+<p><b>Full-Stack Developer</b> — TypeScript, React, Node.js</p>
+<p>Building since 2016.</p>
 
 <br />
 
-<!-- Replace this with your real portfolio link, or delete it if you don't have one yet -->
 <a href="mailto:andersonazariah2009@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=555555&labelColor=000000" alt="Portfolio (coming soon)" />
 
 </div>
 
 <br />
 
 <p align="center">
-Focused on shipping fast, reliable products end to end — from database schema to pixel-perfect UI. Comfortable owning a feature from architecture through deployment.
+I build products from idea to deployment — backend, database, and UI.
 </p>
 
 <br />
@@ -42,30 +40,23 @@ Focused on shipping fast, reliable products end to end — from database schema 
   <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=white" alt="Drizzle" />
-  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
 </div>
 
 <h3 align="center">AI & Tooling</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
-  <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openrouter&logoColor=white" alt="OpenRouter" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge" alt="OpenRouter" />
   <img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
 </div>
 
 <h3 align="center">Motion, State & Platform</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge" alt="Zustand" />
   <img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
   <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-</div>
-
-<br />
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AzariahAnderson&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzariahAnderson&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=ffffff&text_color=c9d1d9" alt="Top languages" />
 </div>
